@@ -7,7 +7,7 @@ const Footer = () => {
 		<div>
 			<div className={styles.realFooter}>
 				<h6>
-				Copyright © 2025 Arran Zeyu Wang. Based on <a href='https://vis-panel-enough-evaluation.github.io/'>Vis Evaluation Panel</a> designed by <a href='https://www.hyeonjeon.com/'>Hyeon Jeon</a>.
+				Copyright © 2026 Arran Zeyu Wang. Based on <a href='https://vis-panel-enough-evaluation.github.io/'>Vis Evaluation Panel</a> designed by <a href='https://www.hyeonjeon.com/'>Hyeon Jeon</a>.
 				</h6>
 			</div>
 		</div>
