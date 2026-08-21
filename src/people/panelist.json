@@ -1,44 +1,37 @@
 [
   {
-    "name": "Min Chen",
-    "email": "min.chen@oerc.ox.ac.uk",
-    "affiliation": "Oxford",
-    "bio": "Min Chen is a professor of scientific visualization at Oxford University and a fellow of Pembroke College. His research interests include data visualization, data science, computer graphics, computer vision, and human-computer interaction. He has co-authored over 200 publications, including his recent contributions in areas such as theory of visualization, video visualization, visual analytics, VIS4ML, and perception and cognition in visualization. He has worked on a broad spectrum of interdisciplinary research topics, ranging from the sciences to sports, and from digital humanities to cybersecurity. He received the 2024 VGTC Visualization Lifetime Achievement Award.",
-    "image": "chen.jpg"
-  },
-  {
-    "name": "Alex Kale",
-    "email": "kalea@uchicago.edu",
-    "affiliation": "UChicago",
-    "bio": "Alex Kale is an Assistant Professor in Computer Science and the Data Science Institute at the University of Chicago. He earned his PhD in Information Science at the University of Washington in 2022. Alex leads the Data Cognition Lab at the University of Chicago, focused on creating data visualization and analysis software that explicitly represents users’ cognitive processes around data.",
-    "image": "kale.jpeg"
-  },
-  {
-    "name": "Alvitta Ottley",
-    "email": "alvitta@wustl.edu",
-    "affiliation": "WashU",
-    "bio": "Alvitta Ottley is an Associate Professor in the Computer Science & Engineering Department at Washington University in St. Louis, Missouri, USA. She is also the director of the Visual Interface and Behavior Exploration (VIBE) Lab and hold a courtesy appointment in the Psychological and Brain Sciences Department. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how to design human-in-the-loop visual analytics interfaces that are more attuned to how people think.",
-    "image": "ottley.avif"
-  },
-  {
-    "name": "Lace Padilla",
-    "email": "l.padilla@northeastern.edu",
-    "affiliation": "Northeastern",
-    "bio": "Lace Padilla is an assistant professor in the Khoury College of Computer Sciences and the College of Science at Northeastern University, based in Boston and Oakland. Her interests lie in the intersection between Information Visualization, Behavioral Decision Making, and Data Science. Her research on uncertainty communication explores how to align data visualizations of future events with human decision-making capabilities.",
-    "image": "padilla.jpg"
-  },
-  {
-    "name": "Karen Schloss",
-    "email": "kschloss@wisc.edu",
-    "affiliation": "UW–Madison",
-    "bio": "Karen Schloss is an Associate Professor at the University of Wisconsin–Madison in the Department of Psychology and Wisconsin Institute for Discovery. Her Visual Reasoning Lab studies how people interpret meaning from visual features, with a focus on color. Her research addresses fundamental questions in information visualization and visual cognition, with the goal of making visual communication more effective and efficient. As part of the WID Virtual Environments group, her lab also develops virtual reality educational tools to help make science accessible and engaging.",
-    "image": "schloss.jpg"
-  },
-  {
     "name": "Cindy Xiong Bearfield",
     "email": "cxiong@gatech.edu",
     "affiliation": "Georgia Tech",
     "bio": "Cindy Xiong Bearfield is an Assistant Professor in the School of Interactive Computing at Georgia Tech. Cindy's expertise in human perception and cognition will help us understand how and when to approach evaluations so that researchers can explain the whys behind their observations.",
     "image": "bearfield.jpg"
+  },
+  {
+    "name": "David Gotz",
+    "email": "gotz@unc.edu",
+    "affiliation": "UNC-Chapel Hill",
+    "bio": "David Gotz is a Professor of Information Science at the UNC School of Information and Library Science (SILS). He also serves as Director for both the Carolina Health Informatics Program and UNC's Certificate in Applied Data Science (CADS). He spent nearly a decade as a Research Scientist at the IBM T.J. Watson Research Center, New York, NY, USA before returning to join the UNC faculty in 2014.",
+    "image": "gotz.jpg"
+  },
+  {
+    "name": "Alex Kale",
+    "email": "kalea@uchicago.edu",
+    "affiliation": "UChicago",
+    "bio": "Alex Kale is an Assistant Professor in Computer Science and the Data Science Institute at the University of Chicago. He earned his PhD in Information Science at the University of Washington in 2022. Alex leads the Data Cognition Lab at the University of Chicago, focused on creating data visualization and analysis software that explicitly represents users' cognitive processes around data.",
+    "image": "kale.jpeg"
+  },
+  {
+    "name": "Bum Chul Kwon",
+    "email": "bumchulkwon@gmail.com",
+    "affiliation": "IBM Research",
+    "bio": "Bum Chul Kwon is a research scientist at IBM Research, Cambridge, MA. He earned a PhD in Industrial Engineering from Purdue University in 2013. He builds and evaluates AI models, visual analytics systems, and agentic workflows, applying them to unlock deeper insights, address healthcare and life sciences challenges, tell compelling data-driven stories, and advance data visualization literacy.",
+    "image": "bc.jpg"
+  },
+  {
+    "name": "Klaus Mueller",
+    "email": "mueller@cs.stonybrook.edu",
+    "affiliation": "Stony Brook University",
+    "bio": "Klaus Mueller is a professor in the Computer Science Department at Stony Brook University and a senior scientist at the Computational Science Initiative at Brookhaven National Lab. He chaired the IEEE Visualization Conference in 2009, served as elected Chair of the IEEE Technical Committee on Visualization and Computer Graphics (VGTC) from 2012–2015, and was Editor-in-Chief of IEEE Transactions on Visualization and Computer Graphics from 2019–2022. He is a member of the VGTC Visualization Academy and a Fellow of the IEEE.",
+    "image": "mueller.png"
   }
 ]

@@ -1,18 +1,25 @@
 [
-	{
-		"name": "Arran Zeyu Wang",
-		"email": "zeyuwang@cs.unc.edu",
-		"affiliation":"UNC-Chapel Hill",
-		"bio": "Arran Zeyu Wang is a fourth-year PhD student in the Department of Computer Science at the University of North Carolina-Chapel Hill.",
-		"image": "arran.png"
-	},
-	{
-		"name": "Danielle Albers Szafir",
-		"email": "dnszafir@cs.unc.edu",
-		"affiliation": "UNC-Chapel Hill",
-		"bio": "Danielle Albers Szafir is an Associate Professor in the Department of Computer Science at the University of North Carolina-Chapel Hill. Her work includes collaboration and publication in both visualization and psychology, including as an organizing member of both the VisxVision and VisPsych initiatives.",
-		"image": "danielle.png"
-	}
+  {
+    "name": "Arran Zeyu Wang",
+    "email": "zeyuwang@cs.unc.edu",
+    "affiliation": "UNC-Chapel Hill",
+    "bio": "Arran Zeyu Wang is a final-year PhD student in the Department of Computer Science at the University of North Carolina-Chapel Hill. His research interests include perception and cognition, causal inference, and visual analytics.",
+    "image": "arran.png"
+  },
+  {
+    "name": "David Borland",
+    "email": "borland@renci.org",
+    "affiliation": "RENCI and UNC-Chapel Hill",
+    "bio": "David Borland is an Assistant Director of Analytics and Data Science at UNC's Renaissance Computing Institute (RENCI). His main areas of research interest include data visualization, computer graphics, virtual reality, image processing and analysis, and haptic interfaces.",
+    "image": "borland.jpg"
+  },
+  {
+    "name": "David Gotz",
+    "email": "gotz@unc.edu",
+    "affiliation": "UNC-Chapel Hill",
+    "bio": "David Gotz is a Professor of Information Science at the UNC School of Information and Library Science (SILS). He also serves as Director for both the Carolina Health Informatics Program and UNC's Certificate in Applied Data Science (CADS). He spent nearly a decade as a Research Scientist at the IBM T.J. Watson Research Center, New York, NY, USA before returning to join the UNC faculty in 2014.",
+    "image": "gotz.jpg"
+  }
 ]
 
 
