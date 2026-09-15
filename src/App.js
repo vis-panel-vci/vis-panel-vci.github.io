@@ -14,7 +14,7 @@ function App() {
       <People title="Panelists" />
       <People title="Organizers" />
       <Schedule />
-    <SlidoIframe />
+    {/* <SlidoIframe /> */}
     <Footer />
     </div>
   );
