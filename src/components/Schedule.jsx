@@ -2,14 +2,14 @@ import React from "react";
 import styles from "./Schedule.module.scss";
 
 const schedule = [
-  // { time: "3:45 PM - 3:50 PM", event: "Introduction by Organizers" },
-  // { time: "3:50 PM - 3:55 PM", event: "Presentation by Min Chen", bold: "Min Chen" },
-  // { time: "3:55 PM - 4:00 PM", event: "Presentation by Alex Kale", bold: "Alex Kale" },
-  // { time: "4:00 PM - 4:05 PM", event: "Presentation by Alvitta Ottley", bold: "Alvitta Ottley" },
-  // { time: "4:05 PM - 4:10 PM", event: "Presentation by Lace Padilla", bold: "Lace Padilla" },
-  // { time: "4:10 PM - 4:15 PM", event: "Presentation by Karen Schloss", bold: "Karen Schloss" },
-  // { time: "4:15 PM - 4:55 PM", event: "Panel Discussion and Q & A" },
-  // { time: "4:55 PM - 5:00 PM", event: "Closing by Organizers" }
+  { time: "8:00 AM - 8:05 AM", event: "Introduction by Organizers" },
+  { time: "8:05 AM - 8:10 AM", event: "Presentation by Cindy Xiong Bearfield", bold: "Cindy Xiong Bearfield" },
+  { time: "8:10 AM - 8:15 AM", event: "Presentation by David Gotz", bold: "David Gotz" },
+  { time: "8:15 AM - 8:20 AM", event: "Presentation by Alex Kale", bold: "Alex Kale" },
+  { time: "8:20 AM - 8:25 AM", event: "Presentation by Bum Chul Kwon", bold: "Bum Chul Kwon" },
+  { time: "8:25 AM - 8:30 AM", event: "Presentation by Klaus Mueller", bold: "Klaus Mueller" },
+  { time: "8:30 AM - 9:25 AM", event: "Panel Discussion and Q & A" },
+  { time: "9:25 AM - 9:30 AM", event: "Closing by Organizers" }
 ];
 
 const Schedule = () => (
