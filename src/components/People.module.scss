@@ -11,10 +11,16 @@
 
 .peopleWrapper {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: repeat(3, minmax(0, 1fr));
 	gap: 10px;
 	justify-items: center;
 	margin-top: 20px;
+}
+
+@include mobile {
+	.peopleWrapper {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
 }
 
 .titleWrapper {
